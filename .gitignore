@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Mac User Laptop
+.DS_Store
+
+# Environment
+venv/
+
+# IDE
+.vscode
+.idea
+
+# Specific format
+*.csv
+*.xls
+*.log
+
+# data
+src/indonesia/data/*
+src/world/data/*
